@@ -1,4 +1,4 @@
-package java_20191120;
+﻿package java_20191120;
 
 public class ForDemo {
 	public static void main(String[] args) {
@@ -58,7 +58,7 @@ public class ForDemo {
 			System.out.println();
 		}
 		// 수정 잘 되니?
-		
+		// 나도 수정했어
 	}
 }
 
